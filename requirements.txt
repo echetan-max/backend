@@ -1,0 +1,7 @@
+supabase==2.6.0
+requests>=2.31.0
+numpy>=1.26.0
+pillow>=10.0.0
+scikit-image>=0.22.0
+qiskit==1.2.4
+qiskit-ibm-runtime==0.27.0
